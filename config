@@ -1,0 +1,6 @@
+Host caen
+	User hdomingu
+	HostName login.engin.umich.edu
+	ServerAliveInterval 120
+	ServerAliveCountMax 30
+
